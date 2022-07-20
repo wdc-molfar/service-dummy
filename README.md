@@ -7,7 +7,7 @@ For test it:
 npm test
 ```
 
-it will do something like this
+It will do something like this
 
 ```sh
 
